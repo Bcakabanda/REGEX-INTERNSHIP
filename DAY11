@@ -1,0 +1,23 @@
+Day 11 – File Handling in Python Using VS Code
+🔹 What I Did Today:
+Today, I learned how to read and write CSV files in Python using VS Code as my coding environment.
+
+I practiced:
+
+Opening and reading CSV files with the csv module
+
+Writing data to CSV files
+
+Understanding file modes (r, w, a)
+
+Handling file exceptions and closing files properly
+
+🧠 Key Concepts Covered:
+File I/O basics in Python
+
+Working with CSV format data
+
+Using VS Code efficiently for running Python scripts
+
+✅ Outcome:
+Now I can manage CSV files with Python, which is crucial for data handling tasks. Also got comfortable using VS Code for file-related projects.

@@ -1,1 +1,15 @@
-INTRODUCING GIT AND GITHUB
+INTRODUCING  ABOUT AWS ( HOW TO HOST WEBSITE'S ON AWS )
+
+Today, I explored how to host a website using AWS EC2. I launched a new EC2 instance (Ubuntu, free tier), connected to it using SSH, and set up an Apache web server.
+
+After setting everything up, I uploaded my website files and replaced the default Apache page. Once done, I tested the public IP in the browser — and it worked! My site was live on the internet.
+
+Tools I Used:
+
+AWS EC2 (Ubuntu)
+Apache Web Server
+SSH via terminal
+
+
+
+

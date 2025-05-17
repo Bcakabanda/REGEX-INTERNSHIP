@@ -1,0 +1,25 @@
+Day 10 – Deep Dive into Python Functions
+🔹 What I Did Today:
+Today, I focused on learning functions in Python in depth. I understood how to define, call, and use functions effectively.
+
+I covered:
+
+Creating functions with def
+
+Function parameters and return values
+
+Scope of variables (local vs global)
+
+Writing reusable code using functions
+
+Building logic inside functions to solve problems
+
+🧠 Key Concepts Covered:
+Function definition and invocation
+
+Parameter passing techniques
+
+Using functions to organize and simplify code
+
+✅ Outcome:
+Now I can confidently write and use functions to break down complex problems into smaller parts, making my code cleaner and more efficient.

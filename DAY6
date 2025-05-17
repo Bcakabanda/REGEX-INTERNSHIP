@@ -1,0 +1,21 @@
+ Day 6 – Practicing Python on Google Colab
+
+🔹 What I Did Today:
+Today, I explored Google Colab to practice Python more efficiently. I used it as an online Jupyter Notebook to run and test my code without installing anything locally.
+
+I focused on:
+
+Variables in Python (declaration, updating values, type checking)
+
+String operations like slicing, concatenation, formatting, and built-in methods (lower(), upper(), replace(), split(), etc.)
+
+🧠 Key Concepts Covered:
+- How Google Colab works
+
+- Writing and executing Python code in notebook cells
+
+- String manipulation techniques
+
+✅ Outcome:
+Now I'm more comfortable using Google Colab for Python practice, and I understood how to work with strings and variables effectively in Python.
+

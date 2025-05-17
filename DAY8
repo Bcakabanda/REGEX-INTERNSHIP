@@ -1,0 +1,25 @@
+Day 8 – Learning Lists & Tuples in Python
+🔹 What I Did Today:
+Today, I learned about Lists and Tuples in Python using Google Colab. I practiced how to create, access, and manipulate these data structures.
+
+I explored:
+
+Creating lists and tuples
+
+Indexing and slicing
+
+List methods like append(), remove(), sort(), reverse()
+
+Tuple properties (immutable nature)
+
+Conversion between lists and tuples
+
+🧠 Key Concepts Covered:
+Difference between list and tuple
+
+When to use list vs tuple
+
+How to loop through lists/tuples
+
+✅ Outcome:
+Now I understand how to store and work with multiple values using lists and tuples. Feeling more confident with Python data structures.

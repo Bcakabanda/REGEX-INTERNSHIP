@@ -1,1 +1,35 @@
-INTRODUCING BASICS ABOUT PYTHON  
+Day 4 – Learning Git & GitHub
+
+🔹 What I Did Today:
+
+Today, I focused on learning the basics of Git and GitHub. I understood how version control works and practiced all the important Git commands.
+
+I learned how to:
+
+Push code from my local machine to GitHub.
+
+Clone a repository from GitHub to my local system.
+
+Track changes using git status, git add, git commit, and git push.
+
+Work with remote repositories using git clone, git pull, and git remote.
+
+This helped me understand how developers collaborate using Git and how to manage project code efficiently.
+
+🔧 Commands I Practiced:
+git init
+
+git add .
+
+git commit -m "message"
+
+git remote add origin <repo-url>
+
+git push -u origin main
+
+git clone <repo-url>
+
+git pull
+
+✅ Outcome:
+Now I’m comfortable with pushing and pulling code using Git. I’ve set up my GitHub account, pushed a test project, and also cloned a repo to my system successfully.
